@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Shaden Moss"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio_pic.jpg"
   bio    : "Recent MS Graduate in Robotics"
   links:
     - label: "Email"
