@@ -82,7 +82,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:engineering.moss@gmail.com"
 
 defaults:
