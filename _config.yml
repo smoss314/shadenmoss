@@ -63,7 +63,7 @@ author:
   bio    : "Recent MS Graduate in Robotics"
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:engineering.moss@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
