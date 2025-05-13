@@ -1,6 +1,6 @@
 ---
 title: "Extended Kalman Filter for SLAM"
-permalink: /shadenmoss/projects/ekf-slam/
+permalink: /projects/ekf-slam/
 layout: single
 author_profile: false
 ---
