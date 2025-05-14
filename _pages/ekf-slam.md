@@ -14,6 +14,12 @@ For an assignment in a course on SLAM I implemented an extended Kalman filter in
 
 The second figure shows the same algorithm running on the first several seconds of the popular Victoria Park SLAM data set, where obstacles are identified as stars. The third figure shows the portion of the original Victoria Park data set corresponding to this simulation.
 
-embed gif
+<iframe width="720" height="405" 
+        src="https://www.youtube.com/embed/IKZ6lQ8pQ8k" 
+        frameborder="0" 
+        allowfullscreen>
+</iframe>
 
-embed png
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/VictoriaParkHighlight.png" width="600" alt="Victoria Park Highlight">
+</p>
