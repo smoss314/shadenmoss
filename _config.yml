@@ -73,7 +73,7 @@ author:
       url: "https://www.linkedin.com/in/shadenmoss/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/smoss314"
     
 
 footer:
@@ -83,7 +83,7 @@ footer:
       url: "https://www.linkedin.com/in/shadenmoss/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/smoss314"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:engineering.moss@gmail.com"
