@@ -2,7 +2,7 @@
 title: "Stereo Camera Trajectory Estimation"
 permalink: /projects/trajectory-3d/
 layout: single
-tags: Computer Vision
+tags: ComputerVision
 author_profile: true
 ---
 
