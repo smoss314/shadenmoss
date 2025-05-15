@@ -20,6 +20,8 @@ The video below shows the same algorithm adjusted to run on the popular Victoria
         allowfullscreen>
 </iframe>
 
+
+
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/VictoriaParkHighlight.png" width="600" alt="Victoria Park Highlight">
+  <img src="{{ site.baseurl }}/assets/images/VictoriaParkHighlight.png" width="720" alt="Victoria Park Highlight">
 </p>
