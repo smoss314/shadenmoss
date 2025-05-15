@@ -3,7 +3,7 @@ title: "Extended Kalman Filter for SLAM"
 permalink: /projects/ekf-slam/
 layout: single
 tags: SLAM
-author_profile: false
+author_profile: true
 ---
 
 <p align="center">
