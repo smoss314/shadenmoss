@@ -4,6 +4,7 @@ permalink: /projects/ekf-slam/
 layout: single
 tags: SLAM
 author_profile: true
+nav_exclude: true
 ---
 
 <p align="center">
