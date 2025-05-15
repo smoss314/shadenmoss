@@ -1,0 +1,5 @@
+/* Remove grayscale hover effect from profile image */
+.sidebar .author__avatar img {
+  filter: none !important;
+  transition: none !important;
+}
